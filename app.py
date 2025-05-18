@@ -80,7 +80,7 @@ with col1:
         # Lưu lịch sử hội thoại
         st.session_state.history.append((user_input, reply))
         # Reload trang để hiển thị tin nhắn mới
-        st.experimental_rerun()
+        st.rerun()
 
 # Hiển thị lịch sử ở Sidebar
 with st.sidebar:

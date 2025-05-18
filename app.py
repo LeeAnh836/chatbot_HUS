@@ -2,6 +2,7 @@ import streamlit as st
 import json
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import random
 
 # --- Tải dữ liệu từ file JSON ---
 DATA_PATH = "data.json"  # Sử dụng đường dẫn tương đối
@@ -38,8 +39,18 @@ vectorizer = TfidfVectorizer()
 X = vectorizer.fit_transform(questions)
 
 # --- Giao diện Streamlit ---
+# Lấy danh sách câu trả lời chào từ các câu hỏi có chứa 'chào' hoặc 'hello'
+greeting_keywords = ["chào", "hello"]
+greeting_answers = [
+    item["answer"] for item in scripts
+    if any(kw in item["question"].lower() for kw in greeting_keywords)
+]
+if greeting_answers:
+    greeting = random.choice(greeting_answers)
+else:
+    greeting = "Chào mừng bạn đến với Chatbot tư vấn tuyển sinh!"
 st.set_page_config(page_title="🎓 Chatbot Tư vấn Tuyển sinh", layout="wide")
-st.title("🎓 Chatbot Tư vấn Tuyển sinh")
+st.title(greeting)
 
 # Khởi tạo session state
 if "history" not in st.session_state:

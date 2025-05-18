@@ -1,0 +1,54 @@
+[
+    {
+        "question": "Xin chào",
+        "answer": "Chào bạn 👋! Mình là Chatbot tư vấn tuyển sinh của Khoa Toán - Cơ - Tin học, ĐHKHTN. Bạn cần hỗ trợ gì không?"
+    },
+    {
+        "question": "Hello",
+        "answer": "Xin chào bạn! 😊 Bạn muốn hỏi về ngành học, học phí, ký túc xá hay điều gì khác?"
+    },
+    {
+        "question": "Chào bạn",
+        "answer": "Chào bạn! Mình có thể giúp gì cho bạn trong quá trình tìm hiểu về các ngành học?"
+    },
+    {
+        "question": "Bạn là ai?",
+        "answer": "Mình là Chatbot tư vấn tuyển sinh được phát triển bởi Khoa Toán - Cơ - Tin học, ĐHKHTN. Mình có thể hỗ trợ bạn thông tin về chương trình đào tạo, cơ hội nghề nghiệp, học phí, ký túc xá,..."
+    },
+    {
+        "question": "Tôi muốn tìm hiểu về tuyển sinh",
+        "answer": "Tuyệt vời! Bạn muốn tìm hiểu về ngành nào? Ví dụ như Khoa học dữ liệu, Toán tin, Toán học,... hoặc mình có thể tư vấn tổng quan cho bạn."
+    }, 
+  {
+    "question": "Mình muốn hỏi rằng ngành KHDL của trường mình có dạy về SQL không?",
+    "answer": "Theo chương trình học của ngành Khoa học dữ liệu thì môn Cơ sở dữ liệu (SQL) thường được dạy từ kỳ 1 năm 2 và sau đó sẽ luôn được nhắc lại xuyên suốt các năm sau đó."
+  },
+  {
+    "question": "Vậy còn cơ hội việc làm của ngành khoa học dữ liệu là gì?",
+    "answer": "Ngành Khoa học Dữ liệu tại Khoa Toán - Cơ - Tin học, ĐHQGHN mở ra cơ hội làm việc hấp dẫn:\n\nVị trí: Chuyên gia phân tích dữ liệu, kỹ sư dữ liệu, nhà khoa học dữ liệu, chuyên gia AI.\nMức lương: 15-30 triệu VND/tháng (mới ra trường), 40-80 triệu VND/tháng (3-5 năm kinh nghiệm).\nCơ hội: Làm việc tại FPT, Viettel, Google, Amazon, hoặc nghiên cứu quốc tế. Nhu cầu cao, triển vọng toàn cầu.\nHỗ trợ: Thực tập, hội thảo, khóa học Python, SQL, TensorFlow.\nThách thức: Yêu cầu tư duy phân tích, lập trình, cập nhật công nghệ.\n\nBạn muốn biết thêm về chương trình đào tạo hay học bổng không?"
+  },
+  {
+    "question": "Anh chị cho em xin ít review về ngành toán tin của trường được không ạ. Em cảm ơn rất nhiều ạ.",
+    "answer": "Dựa trên Chương trình đào tạo (CTĐT) chuẩn ngành Toán tin ban hành kèm Quyết định 3567/QĐ-ĐHKHTN ngày 18/10/2023:\n\nMục tiêu (Mục 2.1): Ngành Toán tin trang bị kiến thức vững chắc về cả Toán ứng dụng và Tin học, nhằm đào tạo nhân lực có thể làm nghiên cứu chuyên sâu về Toán ứng dụng (mật mã, thống kê, phân tích dữ liệu, tối ưu...) hoặc đảm nhận các công việc đòi hỏi kiến thức chuyên sâu về Tin học (lập trình, quản trị CSDL, phát triển mô hình AI/khoa học dữ liệu...) hoặc các công việc liên ngành.\n\nChuẩn đầu ra (Phần II): Sinh viên tốt nghiệp có khả năng vận dụng kiến thức toán, thống kê, lập trình để mô hình hóa và giải quyết vấn đề; thu thập, tổ chức, lưu trữ thông tin; xây dựng phần mềm; phân tích dữ liệu; có kỹ năng giao tiếp, làm việc nhóm, tư duy phản biện và sử dụng tiếng Anh đạt chuẩn Bậc 3.\n\nCơ hội việc làm (Mục 4): Có thể làm Lập trình viên, Chuyên gia phân tích dữ liệu, Chuyên gia thống kê, Chuyên gia phát triển thuật toán tại các doanh nghiệp, bộ phận R&D, cơ quan quản lý kinh tế, tài chính; hoặc làm Giảng viên, Nghiên cứu viên, Chuyên viên kỹ thuật tại các trường, viện.\n\nHọc tập nâng cao (Mục 5): Có đủ khả năng học tiếp lên Thạc sĩ, Tiến sĩ tại Khoa hoặc các trường đại học uy tín trong và ngoài nước.\n\nChương trình học (Phần III): Tổng cộng 132 tín chỉ (chưa tính GDTC, GDQP, Kỹ năng bổ trợ). Bao gồm các môn Toán cốt lõi (Đại số tuyến tính, Giải tích, Phương trình vi phân, Giải tích số, Xác suất, Thống kê, Tối ưu hóa, Toán rời rạc...) và các môn Tin học (Lập trình cơ bản, Lập trình hướng đối tượng, Hệ thống máy tính, Cấu trúc dữ liệu & thuật toán, Cơ sở dữ liệu, Học máy...). Có hai định hướng tự chọn chuyên sâu là Tin học và Tính toán khoa học."
+  },
+  {
+    "question": "Tiện thể cho em hỏi lun học phí Toán học ạ, em cảm ơn.",
+    "answer": "Theo Bảng học phí dự kiến tại Mục 1.10, Phần II, Đề án tuyển sinh năm 2024 (kèm theo Quyết định 1616/QĐ-ĐHKHTN ngày 31/5/2024), mức học phí dự kiến cho ngành Toán học (mã QHT01) năm học 2024-2025 là 1.640.000 đồng/tháng. Mức thu này theo quy định của Nghị định 97/2023/NĐ-CP. Học phí mỗi năm có thể thay đổi, hiện tại, nhà trường áp dụng mức tăng học phí 10% mỗi năm."
+  },
+  {
+    "question": "Anh chị cho em hỏi khi nộp hồ sơ vào trường thì cần những giấy tờ j ạ !!!",
+    "answer": "Theo Điều 17, Khoản 1, Quyết định 1328/QĐ-ĐHQGHN ngày 18/04/2023, Trường ĐHKHTN sẽ gửi Giấy báo trúng tuyển cho thí sinh, trong đó \"ghi rõ những thủ tục cần thiết đối với thí sinh khi nhập học\". Do đó bạn cần kiểm tra lại các thông báo của nhà trường, đặc biệt là email.\nBạn có thể tham khảo danh mục những giấy tờ cần nộp trực tiếp theo yêu cầu của nhà trường năm 2024 như sau:\n- Căn cước công dân: 02 bản photocopy có công chứng (có đầy đủ 2 mặt) và mang theo bản chính để kiểm tra.\n- Bản chính Giấy báo kết quả thi của kì thi tốt nghiệp THPT năm 2024 (nếu có).\n- Bản chính Giấy chứng nhận tốt nghiệp tạm thời (đối với thí sinh tốt nghiệp năm 2024) hoặc 01 bản photocopy có công chứng Bằng tốt nghiệp THPT hoặc tương đương (đối với thí sinh tốt nghiệp trước năm 2024) và mang theo bản chính để kiểm tra.\n- Học bạ THPT hoặc tương đương: 01 bản photocopy có công chứng (hoặc xác nhận của trường nơi tốt nghiệp) và mang theo bản chính để kiểm tra.\n- Giấy khai sinh: 01 bản sao y bản chính hoặc 01 bản photocopy có công chứng.\n- Bản photocopy thẻ bảo hiểm y tế của thí sinh trúng tuyển.\n- Bản sơ yếu lý lịch (theo mẫu của trường, link tải có trong tài liệu bạn gửi), có dán ảnh đóng dấu giáp lai và chứng nhận của chính quyền địa phương hoặc thủ trưởng cơ quan nơi bố (hoặc mẹ) công tác.\n- Giấy chứng nhận được hưởng chế độ ưu tiên theo đối tượng, chính sách xã hội (nếu có).\n- Lý lịch và giấy chuyển sinh hoạt Đảng, Đoàn (nếu có, thu khi học chính thức).\n- Giấy chuyển đăng ký nghĩa vụ quân sự (đối với nam, trong độ tuổi nghĩa vụ quân sự).\n- 01 ảnh 3x4, chụp không quá 1 năm tính đến thời điểm nhập học (mặt sau ghi rõ họ tên, ngày tháng năm sinh, nơi sinh, ngành học)."
+  },
+  {
+    "question": "KTX của trường cơ sở vật chất hiện nay như thế nào ạ, nhà ở, căn tin ...?",
+    "answer": "KTX Mễ Trì có 2 toà nhà 5 tầng và 2 toà nhà 4 tầng nằm trên khuôn viên rộng 26.600 m2, với 270 phòng. Toàn bộ phòng ở của cả 03 KTX khép kín, điện nước đảm bảo 24/24. Trong phòng ở trang bị đầy đủ các trang thiết bị cần thiết như Giường, tủ, bàn học, giá sách, quạt đảo trần và trang bị thêm bình nước nóng, điều hoà nhiệt độ. Có đầy đủ các dịch vụ tiện ích, đáp ứng tối đa nhu cầu sinh hoạt và học tập của HSSV nội trú: Thư viện và các phòng tự học; wifi miễn phí phủ khắp khuôn viên, phòng máy tính kết nối internet; Sân tập thể thao đa năng; Phòng tập Gym; Hệ thống máy giặt công cộng; Nhà ăn, cửa hàng fastfood; Quán café… nằm trong khuôn viên các KTX.\nLệ phí nhà ở: các KTX có nhiều loại phòng ở từ 2-10 người/1 phòng, giá phòng ở từ 140.000đ - 215.000đ/1 tháng (giá trên chưa gồm dịch vụ gia tăng theo nhu cầu sinh viên)."
+  },
+  {
+    "question": "Anh chị cho em hỏi học khoa học dữ liệu ra có làm lập trình viên được không ạ",
+    "answer": "Có thể. Theo CTĐT chuẩn ngành Khoa học dữ liệu (KHDL) ban hành kèm Quyết định 3569/QĐ-ĐHKHTN ngày 18/10/2023:\n- Mục 4, Phần II (Vị trí việc làm) có liệt kê vị trí \"Lập trình viên, Quản trị dự án, Trưởng phòng... tại các doanh nghiệp, trung tâm công nghệ thông tin\" là một trong những công việc mà sinh viên tốt nghiệp có thể đảm nhận.\n- Phần III (Khung chương trình đào tạo) cho thấy sinh viên được trang bị các kiến thức và kỹ năng lập trình cần thiết thông qua các học phần như: Lập trình cơ bản (MAT2505), Lập trình hướng đối tượng (MAT1202), Cấu trúc dữ liệu và thuật toán (MAT3514), và các học phần tự chọn như Lập trình cho Khoa học dữ liệu (MAT3382), Tính toán song song (MAT3148). Do đó, chương trình cung cấp nền tảng để sinh viên tốt nghiệp ngành KHDL có thể theo đuổi sự nghiệp lập trình viên, đặc biệt là trong các lĩnh vực liên quan đến xử lý dữ liệu, phát triển ứng dụng AI/ML."
+  },
+  {
+    "question": "Khoá học quân sự ở trường mình sẽ đi trong bao lâu và khi nào thì đi ạ Em xin cảm ơn",
+    "answer": "Chương trình Giáo dục Quốc phòng và An ninh (GDQP-AN) thường bao gồm thời gian học tập trung cho nội dung GDQP-AN và có thể kèm theo các học phần Thể chất. Lịch trình cụ thể, bao gồm thời gian bắt đầu, kết thúc, tổng thời lượng, và địa điểm tổ chức, đều do Nhà trường quy định và thường xuyên được cập nhật, điều chỉnh cho phù hợp với từng năm học.\n\nVí dụ, năm 2025: Chương trình kéo dài khoảng 6 tuần (bao gồm GDQP-AN và Thể chất), diễn ra vào kỳ hè tại Trung tâm Giáo dục Quốc phòng và An ninh, ĐHQGHN, Hòa Lạc. Chương trình bắt đầu từ ngày 23/06/2025 và kết thúc vào ngày 03/08/2025."
+  }
+]
